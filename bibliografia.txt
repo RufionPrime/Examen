@@ -1,2 +1,3 @@
 
 Entornos de Desarrollo 1. Valídalo en el repositorio con el siguiente mensaje “añadida primera referencia bibliográfica
+realizando cambios desde master local
